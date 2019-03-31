@@ -1,9 +1,5 @@
-Hello! 
+Hello friend! 
 
-My name is Kelly
+My name is Kelly McCann
 
-
-McCann
-
-
-And I work at thoughtbot!
+and I work at thoughtbot!
